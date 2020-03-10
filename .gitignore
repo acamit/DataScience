@@ -131,5 +131,4 @@ dmypy.json
 *.exe
 
 Exploratory Data Analysis/Case Study/application_data.csv
-Exploratory Data Analysis/Case Study/columns_description.csv
 Exploratory Data Analysis/Case Study/previous_application.csv
