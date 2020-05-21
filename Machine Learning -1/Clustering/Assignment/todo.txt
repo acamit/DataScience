@@ -1,0 +1,5 @@
+plot data after outlier removing outliers.
+1. build clusters with all variables.
+2. build clusters with selected variable.
+3. compare the models from hierarichal and k-means.
+4. analyze clusters in detail to identify 5 countries 
