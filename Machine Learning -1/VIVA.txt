@@ -1,0 +1,45 @@
+Questions 
+1. Problem statement
+2. Approach of EDA data preparation and modelling
+3. What other logistics modelling you know and how to conclude best model
+4. Assumption of linear regression
+5. What is gradient descent and its uses
+6. How many unsupervised learning algorithm known
+7. How kmean algorithm works
+8. How clustering algorithm works.
+
+My viva questions - 
+1. Explain problem Statement
+2. Explain difficulties faced 
+3. Explain logistic model theoretical and mathematical 
+4. Explain confusion matrix 
+5. Could you matrix be better 
+6. What's the business implications 
+7. What are the cost functions involved 
+6. More questions on subjective questions
+7. Difference between linear and logistic regression models
+8. When to use which models
+9. Explain difference between Mean square error and least squared error
+9. Explain PCA 
+10. How do determine the cut off values.
+11. Questions on SQL
+12. Questions on Python .. what is time complexity ... Tell me how to find the smallest value in a list with minimal time complexity
+13. Difference between list and tuple 
+14. Why and when to use vectorized functions and lambda functions 
+15. Do you know about decision trees and random forest method
+
+Questions for my Viva: 
+1. Problem Statement 
+2. Approach of analysis and model building 
+3. How did you choose the cutoff point and why did you choose it as 0.3 in your model? 
+4. Why didn't you choose Random Forest or Tree Map instead of Logistic regression for this case study? 
+5. What were the top features that influenced for the lead conversion? And explain those features. 
+6. What were the techniques that you used to choose the top features? 
+7. What was the ratio of hot leads to cold leads? 
+8. How did you visualize the box plots? 
+9. What is the concept of quantiles in box plots? 
+10. Uncountable cross questions on the difference between linear regression and logistic regression
+11. What is the central limit theorem in the normal curve? 
+12. What is the relationship between mean, median and mode for a normal distribution? 
+
+
