@@ -1,0 +1,20 @@
+,Stock Name,RMSE,mape rounded,Adjusted R2,Noise,Predicted Mean,Actual Mean,,Actual Mean,Model,Result
+BOM524715,Sun Pharmaceutical Industries Ltd,2.4181,1.0166,-0.0187,0.0006,0.0305,0.2057,,0.205738648,<statsmodels.tsa.arima_model.ARMA object at 0x0000024405622DC0>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x0000024408806E20>
+BOM532488,Divi's Laboratories Ltd.,2.3718,1.4388,-0.0191,0.0003,0.1062,0.2202,,0.220249357,<statsmodels.tsa.arima_model.ARMA object at 0x0000024404868EE0>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x0000024404868AF0>
+BOM500124,Dr. Reddy's Laboratories Ltd.,2.2545,1.0324,-0.0194,0,0.0436,0.1809,,0.180882319,<statsmodels.tsa.arima_model.ARMA object at 0x0000024408806580>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x00000244088061C0>
+BOM500180,HDFC Bank Ltd,2.6519,1.0231,-0.0191,0.0003,0.072,0.1257,,0.12566855,<statsmodels.tsa.arima_model.ARMA object at 0x0000024408874A00>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x00000244088744F0>
+BOM532174,ICICI Bank Ltd.,0,0,-0.0194,0,0,0,,,,
+BOM500247,Kotak Mahindra Bank Ltd.,2.9141,1.0627,-0.0192,0.0002,0.1039,0.0901,,0.09010478,<statsmodels.tsa.arima_model.ARMA object at 0x000002440565A220>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x000002440565A430>
+BOM500470,Tata Steel Ltd.,3.1102,1.0107,-0.0158,0.0035,0.0564,0.3173,,0.317304523,<statsmodels.tsa.arima_model.ARMA object at 0x00000244047E74C0>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x0000024404868490>
+BOM500228,JSW Steel Ltd.,3.1169,1.6278,-0.0194,0,0.5239,0.2888,,0.288780444,<statsmodels.tsa.arima_model.ARMA object at 0x000002440565A7F0>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x000002440565A1F0>
+BOM500440,Hindalco Industries Ltd.,3.6821,0.9859,-0.0175,0.0018,0.0272,0.3687,,0.368711189,<statsmodels.tsa.arima_model.ARMA object at 0x00000244055D6D90>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x0000024405603C10>
+BOM532977,Bajaj Auto Ltd.,2.4343,1.1739,-0.0185,0.0008,0.0861,0.1336,,0.133604058,<statsmodels.tsa.arima_model.ARMA object at 0x00000244056E37C0>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x000002440487B7C0>
+BOM500570,Tata Motors Ltd.,3.8525,0.9806,-0.0139,0.0054,0.048,0.413,,0.413047618,<statsmodels.tsa.arima_model.ARMA object at 0x00000244058BFE50>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x00000244058BF3A0>
+BOM532500,Maruti Suzuki India Ltd.,2.9478,1.1498,-0.0192,0.0001,0.1046,0.0944,,0.094427291,<statsmodels.tsa.arima_model.ARMA object at 0x00000244058BF250>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x00000244058BFE80>
+BOM500209,Infosys Ltd.,2.5059,0.9944,-0.017,0.0023,0.0065,0.2625,,0.262543445,<statsmodels.tsa.arima_model.ARMA object at 0x000002440565A670>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x00000244059C65E0>
+BOM532540,Tata Consultancy Services Ltd.,2.2026,1.1168,-0.0185,0.0009,0.061,0.1954,,0.195378207,<statsmodels.tsa.arima_model.ARMA object at 0x00000244047E7B80>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x0000024405697700>
+BOM507685,Wipro Ltd.,2.5439,4.3498E+11,-0.0156,0.0037,-0.0091,0.2712,,0.271225659,<statsmodels.tsa.arima_model.ARMA object at 0x000002440487BC10>,<statsmodels.tsa.arima_model.ARMAResultsWrapper object at 0x00000244056E34C0>
+,,,,,,,,,,,
+,,,,,,,,,,,
+n = 264,264,,,,,,,,,,
+p,5,,,-0.0194,,,,,,,

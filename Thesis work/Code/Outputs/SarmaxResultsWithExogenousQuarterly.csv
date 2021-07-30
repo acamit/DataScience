@@ -1,0 +1,16 @@
+,StockName,MAPE,RMSE,AdjustedR2,Noise,Model,Order,SeasonalOrder
+BOM524715,SUN PHARMACEUTICAL INDUSTRIES LTD. ,0.3849047553188574,156.81047675998246,-2708092.5948665,0.0105783959526633,<statsmodels.tsa.statespace.sarimax.SARIMAXResultsWrapper object at 0x000001498D79E640>,"(0, 1, 1)","(1, 0, 0, 4)"
+BOM532488,,,,,,,,
+BOM500124,,,,,,,,
+BOM500180,,,,,,,,
+BOM532174,,,,,,,,
+BOM500247,,,,,,,,
+BOM500470,,,,,,,,
+BOM500228,,,,,,,,
+BOM500440,,,,,,,,
+BOM532977,,,,,,,,
+BOM500570,,,,,,,,
+BOM532500,,,,,,,,
+BOM500209,,,,,,,,
+BOM532540,,,,,,,,
+BOM507685,,,,,,,,
